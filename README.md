@@ -1,5 +1,3 @@
-# litenotes
- Note application
 # Litenote Laravel
 
 ## Overview
